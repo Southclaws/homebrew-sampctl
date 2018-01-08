@@ -1,9 +1,9 @@
 class Sampctl < Formula
   desc "A small utility for starting and managing SA:MP servers with better settings handling and crash resiliency."
   homepage "https://github.com/Southclaws/sampctl"
-  url "https://github.com/Southclaws/sampctl/releases/download/1.5.14/sampctl_1.5.14_darwin_amd64.tar.gz"
-  version "1.5.14"
-  sha256 "4d420e2355bcdad9e1d655c8fe8c4b108e28efe60a2bfb06b560b96bd0ecf183"
+  url "https://github.com/Southclaws/sampctl/releases/download/1.5.16/sampctl_1.5.16_darwin_amd64.tar.gz"
+  version "1.5.16"
+  sha256 "8ae00ba9af89198b283719779ca9a2902875197ff171cfc012cd881ce2391660"
 
   def install
     bin.install "sampctl"
