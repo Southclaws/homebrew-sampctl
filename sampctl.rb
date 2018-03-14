@@ -1,9 +1,9 @@
 class Sampctl < Formula
   desc "The Swiss Army Knife of SA:MP - vital tools for any server owner or library maintainer."
   homepage "https://github.com/Southclaws/sampctl"
-  url "https://github.com/Southclaws/sampctl/releases/download/1.7.2/sampctl_1.7.2_darwin_amd64.tar.gz"
-  version "1.7.2"
-  sha256 "2ec68a35811eddffd0881b7f5d8e85723e868df0c43af7ba3b1eac63b42db7ac"
+  url "https://github.com/Southclaws/sampctl/releases/download/1.7.3/sampctl_1.7.3_darwin_amd64.tar.gz"
+  version "1.7.3"
+  sha256 "451c67995631aacf88c246e2f25b78ea3807cda2a40140c315037372d3dc43c8"
 
   def install
     bin.install "sampctl"
